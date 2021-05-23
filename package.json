@@ -21,19 +21,19 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "latest",
-    "@babel/preset-env": "latest",
-    "@commitlint/cli": "latest",
-    "@commitlint/config-conventional": "latest",
-    "@nuxtjs/eslint-config": "latest",
+    "@babel/core": "^7.14.3",
+    "@babel/preset-env": "^7.14.2",
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "@nuxtjs/eslint-config": "^6.0.0",
     "@nuxtjs/module-test-utils": "latest",
     "babel-eslint": "latest",
     "babel-jest": "latest",
-    "eslint": "latest",
-    "husky": "latest",
+    "eslint": "^7.27.0",
+    "husky": "^6.0.0",
     "jest": "latest",
-    "nuxt-edge": "latest",
-    "standard-version": "latest"
+    "nuxt-edge": "^2.16.0-27028817.e6878425",
+    "standard-version": "^9.3.0"
   },
   "publishConfig": {
     "access": "public"
