@@ -36,7 +36,8 @@ yarn add @wearelucid/nuxt-seomatic # or npm install @wearelucid/nuxt-seomatic
 
 1. Clone this repository
 2. Install dependencies using `yarn install` or `npm install`
-3. Start development server using `npm run dev`
+3. Use [yarn link](https://yarnpkg.com/lang/en/docs/cli/link/) or [npm link](https://docs.npmjs.com/cli/link)
+to link to your project.
 
 ## License
 

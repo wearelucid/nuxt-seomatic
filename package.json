@@ -14,7 +14,6 @@
   ],
   "main": "lib/module.js",
   "scripts": {
-    "dev": "nuxt example",
     "lint": "eslint --ext .js,.vue .",
     "release": "yarn lint && standard-version && git push --follow-tags && npm publish",
     "postinstall": "husky install"
