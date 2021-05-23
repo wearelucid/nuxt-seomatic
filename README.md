@@ -3,7 +3,6 @@
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![Github Actions CI][github-actions-ci-src]][github-actions-ci-href]
-[![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
 > Minimal SEOmatic plugin for Nuxt.js inspired by nuxt-seomatic-meta
@@ -52,11 +51,8 @@ Copyright (c) Lucid <buero@wearelucid.ch>
 [npm-downloads-src]: https://img.shields.io/npm/dt/@wearelucid/nuxt-seomatic.svg
 [npm-downloads-href]: https://npmjs.com/package/@wearelucid/nuxt-seomatic
 
-[github-actions-ci-src]: https://github.com/https://github.com/wearelucid/nuxt-seomatic/workflows/ci/badge.svg
-[github-actions-ci-href]: https://github.com/https://github.com/wearelucid/nuxt-seomatic/actions?query=workflow%3Aci
-
-[codecov-src]: https://img.shields.io/codecov/c/github/https://github.com/wearelucid/nuxt-seomatic.svg
-[codecov-href]: https://codecov.io/gh/https://github.com/wearelucid/nuxt-seomatic
+[github-actions-ci-src]: https://github.com/wearelucid/nuxt-seomatic/workflows/ci/badge.svg
+[github-actions-ci-href]: https://github.com/wearelucid/nuxt-seomatic/actions?query=workflow%3Aci
 
 [license-src]: https://img.shields.io/npm/l/@wearelucid/nuxt-seomatic.svg
 [license-href]: https://npmjs.com/package/@wearelucid/nuxt-seomatic
