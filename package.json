@@ -1,6 +1,6 @@
 {
   "name": "@wearelucid/nuxt-seomatic",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Minimal SEOmatic plugin for Nuxt.js inspired by nuxt-seomatic-meta",
   "repository": "https://github.com/wearelucid/nuxt-seomatic",
   "license": "MIT",
