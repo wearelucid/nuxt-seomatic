@@ -15,7 +15,7 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest, macos-latest, windows-latest]
-        node: [10, 12]
+        node: [14]
 
     steps:
       - uses: actions/setup-node@v1
@@ -37,9 +37,6 @@ jobs:
 
       - name: Lint
         run: yarn lint
-
-      - name: Test
-        run: yarn test
 
       - name: Coverage
         uses: codecov/codecov-action@v1
