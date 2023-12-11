@@ -16,6 +16,7 @@
   "scripts": {
     "lint": "eslint --ext .js,.vue .",
     "release": "yarn lint && standard-version && git push --follow-tags && npm publish",
+    "release:major": "yarn lint && standard-version --release-as major && git push --follow-tags && npm publish",
     "postinstall": "husky install",
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable"
