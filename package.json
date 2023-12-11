@@ -24,12 +24,12 @@
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
-    "@nuxtjs/eslint-config": "^6.0.0",
+    "@nuxtjs/eslint-config": "^6.0.1",
     "babel-eslint": "latest",
-    "eslint": "^7.27.0",
+    "eslint": "^7.32.0",
     "husky": "^6.0.0",
     "pinst": "^2.1.6",
-    "standard-version": "^9.3.0"
+    "standard-version": "^9.5.0"
   },
   "publishConfig": {
     "access": "public"
